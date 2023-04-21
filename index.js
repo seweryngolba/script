@@ -1,3 +1,3 @@
-let number = 7;
-
-let number2 = 10;
+const calculation = (a = 5, b = 7) => {
+  return a * b;
+};
